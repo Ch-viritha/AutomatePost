@@ -1,0 +1,1 @@
+FastAPI backend for OrbitPost. See the root README for setup instructions. Uploaded media is stored in `uploads/` (250 MB per-file limit). Add authentication, per-user authorization, rate limiting and platform OAuth before deploying publicly.
